@@ -1,2 +1,1 @@
-# Evolge Technologies
 # intelivita-practical
